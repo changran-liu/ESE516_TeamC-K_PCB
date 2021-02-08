@@ -4,6 +4,7 @@ Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_FTDI|SchDesignator=U_
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_LiPo_Charger|SchDesignator=U_LiPo_Charger|FileName=LiPo_Charger.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LiPo_Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=Memory.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=3.3V_BuckDesign.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=3V3_BUCK.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=6V Boost - High Current.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=CommonComponents.SchDoc|SheetNumber= 
