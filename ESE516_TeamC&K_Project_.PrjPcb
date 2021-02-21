@@ -788,7 +788,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
 [Document45]
-DocumentPath=test.PcbDoc
+DocumentPath=TeamC&K_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
